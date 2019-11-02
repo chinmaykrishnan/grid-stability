@@ -5,5 +5,5 @@ The dataset was taken from the UCI Machine learning repository and can be found 
 There are two notebooks, ANN.ipynb and ML.ipynb. The ANN notebook details the classification problem solved using a simple Sequential model, implemented using keras. The accuracy obtained was ~98% on the training set and ~96% on the test set. The other notebook shows the problem solved using 5 conventional machine learning approaches namely, SVM, decision tree, logistic regression, naive Bayes and random forest classifiers. All of these gave us accuracies over 90%, among which the decision tree classifer and random forest classifier performed the best, with an accuracy of 99.95%.
 
 Notes:
-- The code for plotting the confusion matrices have been borrowed from a Kaggle notebook provided by George fisher, which can be found [here](https://www.kaggle.com/grfiv4/plot-a-confusion-matrix)
+- The code for plotting the confusion matrices have been borrowed from a Kaggle notebook provided by George Fisher, which can be found [here](https://www.kaggle.com/grfiv4/plot-a-confusion-matrix)
 
